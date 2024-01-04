@@ -45,7 +45,6 @@ namespace DeveloperSample.ClassRefactoring
     {
         public double CalculateAirspeed(SwallowType type, SwallowLoad load)
         {
-            // Logic can be extended or modified independently
             if (type == SwallowType.African)
             {
                 return load == SwallowLoad.None ? 22 : 18;

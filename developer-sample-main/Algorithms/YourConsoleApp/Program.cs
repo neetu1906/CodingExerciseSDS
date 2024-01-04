@@ -1,11 +1,11 @@
 ﻿using System;
-using DeveloperSample.Algorithms; // Replace with your actual namespace
+using DeveloperSample.Algorithms; 
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Example of calling a method from Algorithms.cs
+        
         int factorialOf5 = Algorithms.GetFactorial(5);
         Console.WriteLine("Factorial of 5 is: " + factorialOf5);
 

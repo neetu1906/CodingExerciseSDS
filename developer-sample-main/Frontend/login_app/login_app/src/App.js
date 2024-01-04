@@ -7,8 +7,7 @@ const App = () => {
     const [loginAttempts, setLoginAttempts] = useState([]);
 
     const handleLogin = ({ login, password }) => {
-        // Here, you'd normally handle authentication
-        // For this example, we're just storing the attempt
+      
         setLoginAttempts([...loginAttempts, { login, password, timestamp: new Date() }]);
     };
 
