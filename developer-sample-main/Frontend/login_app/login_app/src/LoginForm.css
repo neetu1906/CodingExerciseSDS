@@ -1,0 +1,56 @@
+/* General styles for the page */
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: linear-gradient(to right top, #9eabe4, #8fbdca, #a6cfaf, #cbe09e, #f4f19d);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Styles for the form container as per your specification */
+.form {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  max-width: 25vw;
+  background-color: lightgray;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styles */
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Styles for form inputs */
+input[type="text"],
+input[type="password"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%; /* Make inputs stretch to container width */
+}
+
+/* Styles for the form submit button */
+button[type="submit"] {
+  padding: 10px;
+  color: white;
+  background-color: #ec5990;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%; /* Make button stretch to container width */
+  margin-top: 10px;
+}
+
+button[type="submit"]:hover {
+  background-color: #bf1650;
+}

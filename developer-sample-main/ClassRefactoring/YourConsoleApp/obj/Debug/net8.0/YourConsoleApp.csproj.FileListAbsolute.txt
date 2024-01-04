@@ -1,0 +1,14 @@
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\bin\Debug\net8.0\YourConsoleApp.exe
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\bin\Debug\net8.0\YourConsoleApp.deps.json
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\bin\Debug\net8.0\YourConsoleApp.runtimeconfig.json
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\bin\Debug\net8.0\YourConsoleApp.dll
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\bin\Debug\net8.0\YourConsoleApp.pdb
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\YourConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\YourConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\YourConsoleApp.AssemblyInfo.cs
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\YourConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\YourConsoleApp.dll
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\refint\YourConsoleApp.dll
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\YourConsoleApp.pdb
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\YourConsoleApp.genruntimeconfig.cache
+C:\Users\ghyjmora\Desktop\developer-sample-main\developer-sample-main\ClassRefactoring\YourConsoleApp\obj\Debug\net8.0\ref\YourConsoleApp.dll
